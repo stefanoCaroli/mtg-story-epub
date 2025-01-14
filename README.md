@@ -62,3 +62,7 @@ Ensure the URLs you pass are publicly accessible and the website does not block 
 ### Example Output
 
 For a webpage with the title “My Article”, the script will generate a file named My_Article.epub in the `generated` directory.
+
+### Notes
+
+This is my first project in Node, and my first time doing something like this (web scraping, etc) so for sure there is room for improvement in efficiency and code quality :)
