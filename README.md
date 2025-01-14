@@ -2,6 +2,10 @@
 
 Grab the MTG story articles and generate EPUB files from them.
 
+To generate the epub, this script does some aggressive web scraping, removing elements that are not part of the story article. The logic is very specific to the current MTG story website layout, so this script will not work for other websites and will need to be updated whenever WOTC changes the website.
+
+Updated 2025-01-14 (Aetherdrift)
+
 ### Requirements
 
     1.	Node.js: Ensure you have Node.js installed on your computer. You can download it from Node.js official site.
